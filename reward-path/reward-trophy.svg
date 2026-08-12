@@ -1,0 +1,21 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)" stroke="#090414" stroke-width="6"/>
+  <path d="M46 90H82V102H46V90Z" fill="#FFB51F" stroke="#090414" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M55 75H73V91H55V75Z" fill="#F08A12" stroke="#090414" stroke-width="5"/>
+  <path d="M42 28H86V49C86 64 77 77 64 77C51 77 42 64 42 49V28Z" fill="#FFD760" stroke="#090414" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M42 37H28V45C28 56 35 63 45 63" stroke="#090414" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 37H100V45C100 56 93 63 83 63" stroke="#090414" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 37H28V45C28 52 33 56 41 57" stroke="#FFD760" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 37H100V45C100 52 95 56 87 57" stroke="#FFD760" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M55 42H73" stroke="#FFF0A5" stroke-width="5" stroke-linecap="round"/>
+  <path d="M64 38L68 47L78 49L71 56L73 66L64 61L55 66L57 56L50 49L60 47L64 38Z" fill="#F08A12"/>
+  <path d="M27 24L31 32L39 36L31 40L27 48L23 40L15 36L23 32L27 24Z" fill="#FF4F97"/>
+  <path d="M101 83L104 89L110 92L104 95L101 101L98 95L92 92L98 89L101 83Z" fill="#36C8F4"/>
+  <defs>
+    <linearGradient id="bg" x1="12" y1="14" x2="116" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3523A1"/>
+      <stop offset=".52" stop-color="#1B0B45"/>
+      <stop offset="1" stop-color="#48145B"/>
+    </linearGradient>
+  </defs>
+</svg>
