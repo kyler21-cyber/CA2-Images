@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Vex profile icon">
+  <defs>
+    <linearGradient id="bg" x1="20" y1="8" x2="108" y2="122" gradientUnits="userSpaceOnUse"><stop stop-color="#ff4d8d"/><stop offset="1" stop-color="#6e45d9"/></linearGradient>
+    <linearGradient id="hair" x1="38" y1="20" x2="86" y2="70" gradientUnits="userSpaceOnUse"><stop stop-color="#b772ff"/><stop offset="1" stop-color="#4b18b8"/></linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)" stroke="#09031f" stroke-width="8"/>
+  <circle cx="64" cy="68" r="31" fill="#ffd5bb" stroke="#09031f" stroke-width="5"/>
+  <path d="M30 61c9-31 35-42 65-25-11-1-19 2-25 9 15-1 25 7 29 21-15-8-27-10-40-4-12 6-22 5-29-1Z" fill="url(#hair)" stroke="#09031f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M47 71c8-6 18-6 25 0M77 71c7-5 15-5 21 0" fill="none" stroke="#09031f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M57 88c8 5 17 5 25 0" fill="none" stroke="#09031f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M22 101c14-17 70-17 84 0v19H22v-19Z" fill="#24145a" stroke="#09031f" stroke-width="6"/>
+  <path d="M47 104h34l-17 16-17-16Z" fill="#29c5ff"/>
+</svg>

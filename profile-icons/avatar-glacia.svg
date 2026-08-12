@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Glacia profile icon">
+  <defs><linearGradient id="bg" x1="16" y1="8" x2="112" y2="120"><stop stop-color="#29c5ff"/><stop offset="1" stop-color="#6e45d9"/></linearGradient></defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)" stroke="#09031f" stroke-width="8"/>
+  <circle cx="64" cy="66" r="30" fill="#ffe2ca" stroke="#09031f" stroke-width="5"/>
+  <path d="M31 62c8-35 46-47 69-20-15-3-24 1-30 9 12 0 23 6 27 18-16-8-32-7-45-1-9 4-16 2-21-6Z" fill="#49d9ff" stroke="#09031f" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M46 74h16M75 74h16" stroke="#09031f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M56 89c7 5 17 5 25 0" fill="none" stroke="#09031f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M29 104c18-19 52-22 71 0v16H29v-16Z" fill="#16376f" stroke="#09031f" stroke-width="6"/>
+  <path d="M64 94 75 112 64 124 53 112 64 94Z" fill="#baf6ff"/>
+</svg>

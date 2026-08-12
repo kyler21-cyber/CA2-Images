@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Razorback profile icon">
+  <defs><linearGradient id="bg" x1="12" y1="12" x2="120" y2="120"><stop stop-color="#ffcd3c"/><stop offset="1" stop-color="#7f4cff"/></linearGradient></defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)" stroke="#09031f" stroke-width="8"/>
+  <path d="M32 69c0-27 20-45 50-45 19 0 34 14 34 33 0 26-23 49-52 49-20 0-32-14-32-37Z" fill="#9a5a35" stroke="#09031f" stroke-width="6"/>
+  <path d="M34 47 20 30l5 31M91 31l20-11-9 31" fill="#c77b45" stroke="#09031f" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="73" cy="75" rx="31" ry="22" fill="#c77b45" stroke="#09031f" stroke-width="5"/>
+  <circle cx="61" cy="73" r="5" fill="#09031f"/><circle cx="85" cy="73" r="5" fill="#09031f"/>
+  <path d="M56 91c10 6 24 6 35 0" fill="none" stroke="#09031f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M32 106c20 14 59 14 77-6" fill="none" stroke="#ffcd3c" stroke-width="6" stroke-linecap="round"/>
+</svg>
