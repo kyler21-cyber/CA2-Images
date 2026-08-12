@@ -1,0 +1,62 @@
+<svg width="1100" height="520" viewBox="0 0 1100 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purpleFace" x1="256" y1="76" x2="846" y2="423" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6F36FF"/>
+      <stop offset=".45" stop-color="#32147A"/>
+      <stop offset="1" stop-color="#150532"/>
+    </linearGradient>
+    <linearGradient id="purpleEdge" x1="227" y1="63" x2="873" y2="441" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B35CFF"/>
+      <stop offset=".55" stop-color="#7D4FFF"/>
+      <stop offset="1" stop-color="#3B168C"/>
+    </linearGradient>
+    <linearGradient id="goldText" x1="285" y1="184" x2="819" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF176"/>
+      <stop offset=".42" stop-color="#FFD13C"/>
+      <stop offset="1" stop-color="#F58B13"/>
+    </linearGradient>
+    <linearGradient id="cyanText" x1="372" y1="296" x2="727" y2="365" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#71F4FF"/>
+      <stop offset=".5" stop-color="#20D7FF"/>
+      <stop offset="1" stop-color="#078CCB"/>
+    </linearGradient>
+    <linearGradient id="gem" x1="521" y1="58" x2="586" y2="146" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD8FF"/>
+      <stop offset=".48" stop-color="#FF4FCE"/>
+      <stop offset="1" stop-color="#B715E8"/>
+    </linearGradient>
+    <filter id="heavyShadow" x="120" y="0" width="860" height="510" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="11" stdDeviation="0" flood-color="#06020F"/>
+      <feDropShadow dx="0" dy="22" stdDeviation="12" flood-color="#05010E" flood-opacity=".78"/>
+    </filter>
+    <filter id="purpleGlow" x="80" y="0" width="940" height="520" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.42 0 0 0 0 0.17 0 0 0 0 1 0 0 0 .62 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#purpleGlow)">
+    <path d="M550 43L605 118L682 83L700 146L840 107L795 212L885 236L769 283L792 378L652 350L550 463L448 350L308 378L331 283L215 236L305 212L260 107L400 146L418 83L495 118L550 43Z" fill="url(#purpleEdge)"/>
+    <path d="M550 80L596 145L664 116L676 171L788 145L750 224L820 244L730 281L747 350L631 324L550 414L469 324L353 350L370 281L280 244L350 224L312 145L424 171L436 116L504 145L550 80Z" fill="url(#purpleFace)" stroke="#0A0319" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M356 223H744L790 253L743 286H357L310 253L356 223Z" fill="#0B0420" stroke="#7D4FFF" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M415 340H685L727 366L550 432L373 366L415 340Z" fill="#16063D" stroke="#8F4CFF" stroke-width="7" stroke-linejoin="round"/>
+  </g>
+
+  <g filter="url(#heavyShadow)">
+    <path d="M550 49L593 126H507L550 49Z" fill="url(#gem)" stroke="#0A0319" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M550 61L550 126" stroke="#FFD8FF" stroke-width="4" opacity=".55"/>
+    <path d="M507 126L550 91L593 126" stroke="#FFFFFF" stroke-width="4" opacity=".4"/>
+    <path d="M461 126L497 151L469 185L438 150L461 126Z" fill="#FFD13C" stroke="#0A0319" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M639 126L603 151L631 185L662 150L639 126Z" fill="#FFD13C" stroke="#0A0319" stroke-width="7" stroke-linejoin="round"/>
+  </g>
+
+  <g filter="url(#heavyShadow)">
+    <text x="550" y="272" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="112" letter-spacing="3" fill="url(#goldText)" stroke="#090316" stroke-width="9" paint-order="stroke">SKIRMISH</text>
+    <text x="550" y="367" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="82" letter-spacing="6" fill="url(#cyanText)" stroke="#090316" stroke-width="8" paint-order="stroke">LEGENDS</text>
+  </g>
+
+  <path d="M550 382L574 421L550 452L526 421L550 382Z" fill="url(#gem)" stroke="#0A0319" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M268 184L224 148L288 150" stroke="#7D4FFF" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M832 184L876 148L812 150" stroke="#FF4F97" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
